@@ -1,0 +1,36 @@
+{
+  "ClientId": 732749137975705680,
+  "Token": "NzMyNzQ5MTM3OTc1NzA1Njgw.Xw5H0A.EfN46wGIOcIHcxeCjck96NyaaTc",
+  "OwnerIds": [
+    485256156814770196,
+	735914047056117763
+  ],
+  "LoLApiKey": "",
+  "GoogleApiKey": "AIzaSyCv2U4wUdf3IdBOLn5foA-Jn-03WIEIhAw",
+  "MashapeKey": "",
+  "OsuApiKey": "",
+  "SoundCloudClientId": "",
+  "CleverbotApiKey": "",
+  "CarbonKey": "",
+  "Db": {
+    "Type": "sqlite",
+    "ConnectionString": "Data Source=data/NadekoBot.db"
+  },
+  "TotalShards": 1,
+  "PatreonAccessToken": "",
+  "PatreonCampaignId": "334038",
+  "RestartCommand": null,
+  "ShardRunCommand": "",
+  "ShardRunArguments": "",
+  "ShardRunPort": null,
+  "MiningProxyUrl": null,
+  "MiningProxyCreds": null,
+  "BotListToken": null,
+  "TwitchClientId": null,
+  "VotesToken": null,
+  "VotesUrl": null,
+  "RedisOptions": null,
+  "LocationIqApiKey": null,
+  "TimezoneDbApiKey": null,
+  "CoinmarketcapApiKey": null
+}
